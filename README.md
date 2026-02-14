@@ -34,9 +34,11 @@ JavaScript (Vanilla JS)
 No external libraries or frameworks were used.
 
 📂 Project Structure
+
 ai-calculator/
 │
 └── index.html
+
 All styling and JavaScript logic are included inside a single index.html file for simplicity and portability.
 
 📱 Responsiveness
