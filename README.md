@@ -85,7 +85,7 @@ Progressive Web App (PWA) support
 📌 How to Run Locally
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-calculator.git
+git clone https://github.com/Siddhi-1015/ai-calculator.git
 Open index.html in your browser.
 
 No installation required.
